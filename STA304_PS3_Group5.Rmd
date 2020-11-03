@@ -351,3 +351,5 @@ count(usa_sample$empstat)
 (0.4103455*5655+0.4321664*3779+0.3787699	*276)/(5655+3779+276)
 
 ```
+
+Link to the associated GitHub repo： https://github.com/YvonneYifanZhu/STA304_PS3_Submission
