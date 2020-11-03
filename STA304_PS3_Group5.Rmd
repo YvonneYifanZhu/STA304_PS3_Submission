@@ -352,4 +352,4 @@ count(usa_sample$empstat)
 
 ```
 
-Link to the associated GitHub repo： https://github.com/YvonneYifanZhu/STA304_PS3_Submission
+### Link to the associated GitHub repo: https://github.com/YvonneYifanZhu/STA304_PS3_Submission
